@@ -1,0 +1,4 @@
+*.swiftmodule
+*.swiftdoc
+*.dylib
+main
